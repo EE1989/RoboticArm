@@ -3,4 +3,4 @@
 ### Simple Java Program with 2d
 
 
-![alt text](https://ibb.co/gq3sKG)
+![Robotic Arm](https://image.ibb.co/kL6ZYb/Robotic_Arm.jpg)
